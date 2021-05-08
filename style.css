@@ -83,3 +83,7 @@
 	max-width: 45%;
 	margin: auto;
 }
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
