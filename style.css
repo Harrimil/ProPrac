@@ -99,8 +99,10 @@ html, body {
 .writingimgg{
 	width:15%;
 	margin: auto;
+	float: right;
 }
 .writingimggg{
 	width:10%;
 	margin: auto;
+	float: right;
 }
