@@ -97,13 +97,15 @@ html, body {
 	text-decoration-color: #dfdfdf;
 }
 .writingimgg{
-	width:30%;
+	width:250px;
+	height:auto;
 	margin: auto;
 	float: right;
 	clear: left;
 }
 .writingimggg{
-	width:25%;
+	width:200px;
+	height:auto;
 	margin: auto;
 	float: right;
 	clear: left;
