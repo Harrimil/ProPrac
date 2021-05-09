@@ -100,13 +100,13 @@ html, body {
 	width:30%;
 	margin: auto;
 	float: right;
-	max-height: 100px;
+	clear: left;
 }
 .writingimggg{
 	width:25%;
 	margin: auto;
 	float: right;
-	max-height: 100px;
+	clear: left;
 }
 .eimg{
 	width:35%;
